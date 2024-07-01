@@ -1,0 +1,12 @@
+openai
+langchain_nvidia_ai_endpoints
+langchain-astradb
+langchain 
+langchain-openai
+langchain-groq
+datasets
+pypdf
+python-dotenv
+flask
+
+-e .
